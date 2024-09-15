@@ -1,18 +1,1 @@
-{
-    "id": 254,
-    "name": "Solar Flare",
-    "author": "Space",
-    "creators": ["Marhz"],
-    "verifier": "Space",
-    "verification": "https://youtu.be/mIAK5g_Gu_o?feature=shared",
-    "percentToQualify": "81",
-    "password": "0859",
-    "records": [
-        {
-            "user": "mathey",
-            "link": "https://www.youtube.com/watch?v=1BfoPDFtYOI",
-            "percent": 100,
-            "hz": 144
-        },
-    ]
-}
+
